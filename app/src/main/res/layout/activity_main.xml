@@ -147,7 +147,7 @@
             android:text="@string/window"
             android:layout_width="186dp"
             android:layout_height="138dp" android:id="@+id/window"
-            android:textSize="20sp" app:layout_constraintTop_toTopOf="parent"
+            android:textSize="34sp" app:layout_constraintTop_toTopOf="parent"
             android:layout_marginTop="30dp" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="65dp" android:layout_marginEnd="85dp"
             app:layout_constraintEnd_toEndOf="parent" tools:text="@string/window"
